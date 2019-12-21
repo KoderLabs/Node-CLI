@@ -18,7 +18,7 @@ Node CLI uses a number of open source projects to work properly:
 
 Node-CLI requires [Node.js](https://nodejs.org/) and  [Npm](https://www.npmjs.com) to run.
 
-Clone this repo (https://nodejs.org/) 
+Clone this repo (https://github.com/KoderLabs/Node-CLI) 
 ### Quick Start
 The quickest way to scaffold your application by following command as shown below:
 
