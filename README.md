@@ -51,4 +51,4 @@ Note : if user select more than two two database then user will have to select i
 ```
 >Where you want to store user model : (default postgres)  : mysql,postgres
 ```
-After completing all the steps a folder with given project name will be created and you can run the project by ``` npm run start ```.
+After completing all the steps a folder with the given project name will be created and you can run the project by ``` npm run start ```.
