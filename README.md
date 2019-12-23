@@ -23,6 +23,10 @@ Clone this repo (https://github.com/KoderLabs/Node-CLI)
 The quickest way to scaffold your application by following command as shown below:
 
 ```sh
+> $ npm install
+```
+
+```sh
 > $ npm run start <project-name>
 ```
 project-name should be entered by user ,no default value.
